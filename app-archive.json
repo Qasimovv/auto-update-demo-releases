@@ -1,0 +1,20 @@
+{
+  "appName": "Auto Update Demo",
+  "description": "Auto update demo tətbiqi",
+  "items": [
+    {
+      "version": "1.0.1",
+      "shortVersion": 2,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "Yeni xüsusiyyətlər əlavə edildi"
+        }
+      ],
+      "date": "2025-11-09",
+      "mandatory": true,
+      "url": "https://raw.githubusercontent.com/qasimovv/auto-update-demo-releases/main/releases/macos/1.0.1+2-macos",
+      "platform": "macos"
+    }
+  ]
+}
