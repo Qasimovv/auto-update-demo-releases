@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>24C101</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>StaffCo</string>
+	<key>CFBundleExecutable</key>
+	<string>staffco</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIconName</key>
+	<string>AppIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.staffco.app</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>staffco</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.1.2</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>56</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>24E241</string>
+	<key>DTPlatformName</key>
+	<string>macosx</string>
+	<key>DTPlatformVersion</key>
+	<string>15.4</string>
+	<key>DTSDKBuild</key>
+	<string>24E241</string>
+	<key>DTSDKName</key>
+	<string>macosx15.4</string>
+	<key>DTXcode</key>
+	<string>1630</string>
+	<key>DTXcodeBuild</key>
+	<string>16E140</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.productivity</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>12.0</string>
+	<key>NSAccessibility</key>
+	<string>YES</string>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>StaffCo needs access to Apple Events to monitor application usage and web browser activity for time tracking purposes.</string>
+	<key>NSFileProtectionComplete</key>
+	<string>Complete File Protection</string>
+	<key>NSFileSystemUsageDescription</key>
+	<string>StaffCo needs access to the file system to save screenshots, read browser history for web tracking, and store tracking data.</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2024 com.example. All rights reserved.</string>
+	<key>NSMainNibFile</key>
+	<string>MainMenu</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>StaffCo needs microphone access to record system audio for comprehensive activity tracking and meeting monitoring.</string>
+	<key>NSNetworkVolumesUsageDescription</key>
+	<string>StaffCo may need network access to communicate with browser extensions for enhanced web tracking.</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>NSScreenCaptureUsageDescription</key>
+	<string>StaffCo captures screenshots for time tracking verification and productivity monitoring.</string>
+	<key>NSSystemExtensionUsageDescription</key>
+	<string>StaffCo monitors application and web browser usage to track your productive time accurately.</string>
+</dict>
+</plist>
